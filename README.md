@@ -25,3 +25,10 @@
 ## Week 4 - January 27, 2026
 - Development phase concluded
 - Budget: $40,000
+
+
+***
+
+## Week 5 - February 3, 2026
+- Initiated marketing campaign
+- Budget: $37,000
